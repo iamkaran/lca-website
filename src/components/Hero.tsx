@@ -50,7 +50,7 @@ const Hero = () => {
                 <div className="flex-1 min-w-0">
                   <p className="text-xs text-muted-foreground mb-1">Alert</p>
                   <p className="text-sm font-semibold text-foreground mb-1">Machine Downtime</p>
-                  <p className="text-2xl font-bold text-foreground">53.43</p>
+                  <p className="text-2xl font-bold text-foreground">23.4</p>
                   <p className="text-xs text-muted-foreground">Minutes</p>
                 </div>
               </div>
@@ -81,7 +81,7 @@ const Hero = () => {
                 <div className="w-2 h-2 rounded-full bg-destructive animate-pulse"></div>
                 <div className="flex-1">
                   <p className="text-xs font-medium text-foreground mb-1">Live OEE</p>
-                  <p className="text-3xl font-bold text-foreground">21.2%</p>
+                  <p className="text-3xl font-bold text-foreground">89.2%</p>
                   <div className="mt-2 relative w-16 h-16">
                     <svg className="w-full h-full transform -rotate-90" viewBox="0 0 36 36">
                       <circle cx="18" cy="18" r="16" fill="none" className="stroke-muted" strokeWidth="2"></circle>
