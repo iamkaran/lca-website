@@ -85,7 +85,7 @@ const Hero = () => {
                   <div className="mt-2 relative w-16 h-16">
                     <svg className="w-full h-full transform -rotate-90" viewBox="0 0 36 36">
                       <circle cx="18" cy="18" r="16" fill="none" className="stroke-muted" strokeWidth="2"></circle>
-                      <circle cx="18" cy="18" r="16" fill="none" className="stroke-primary" strokeWidth="2" strokeDasharray="21.2, 100"></circle>
+                      <circle cx="18" cy="18" r="16" fill="none" className="stroke-primary" strokeWidth="2" strokeDasharray="89.2, 100"></circle>
                     </svg>
                   </div>
                 </div>
