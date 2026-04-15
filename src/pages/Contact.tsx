@@ -49,8 +49,8 @@ const Contact = () => {
                     </div>
                     <div>
                       <h3 className="font-semibold text-foreground mb-1">Phone</h3>
-                      <a href="tel:+919988111105" className="text-muted-foreground hover:text-primary transition-colors">
-                        +91 9988 111 105
+                      <a href="tel:+919988111105,+919988111106" className="text-muted-foreground hover:text-primary transition-colors">
+                        +91 9988 111 105 +91 9988 111 106
                       </a>
                     </div>
                   </div>
@@ -62,9 +62,9 @@ const Contact = () => {
                     <div>
                       <h3 className="font-semibold text-foreground mb-1">Visit Us</h3>
                       <p className="text-muted-foreground">
-                        St.No.3, 1279, opposite Dhandari Flyover,<br />
+                        St.No.3, 1279, Industrial Area - C,<br />
                         Dhandari Kalan, Ludhiana,<br />
-                        Punjab 141016, India
+                        Punjab 141014, India
                       </p>
                     </div>
                   </div>

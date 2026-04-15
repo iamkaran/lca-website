@@ -53,7 +53,7 @@ const ContactDialog = ({ trigger, className }: ContactDialogProps) => {
             <div className="flex-1">
               <p className="text-sm text-muted-foreground mb-1">Phone</p>
               <a
-                href="tel:+919988111105"
+                href="tel:+919988111105,+919988111106"
                 className="text-foreground font-medium hover:text-primary transition-colors"
               >
                 +91 9988 111 105
